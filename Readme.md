@@ -104,7 +104,3 @@ For any inquiries, please contact:
 
 ```
 
-### Notes:
-- Make sure to replace `path/to/logo.svg` and other image paths with the actual paths to your SVG files in the repository.
-- Update any sections that may not apply to your project, and adjust any text to best reflect your project's features and usage.
-- This template assumes you're using HTML/CSS/JavaScript. If you’re using a framework, make necessary adjustments.
