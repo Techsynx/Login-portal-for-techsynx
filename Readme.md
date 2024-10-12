@@ -2,7 +2,7 @@
 
 # Login Portal for TechSynx
 
-![TechSynx Logo](path/to/logo.svg)
+![TechSynx Logo uner--](path/to/logo.svg)
 
 ## Overview
 
